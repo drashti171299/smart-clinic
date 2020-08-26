@@ -9,3 +9,6 @@ Patients can search for doctor and make online appointments. They also can view 
 Doctor’s can see his upcoming  appointments, give e-prescription.
 
 Admin has the authority to modify/delete doctor, view reports, total billing amount, currently how many appointments are booked.
+
+
+Technologies used for implementation: PHP, CSS, HTML, BOOTSTRAP4
