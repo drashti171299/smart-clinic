@@ -11,4 +11,4 @@ Doctor’s can see his upcoming  appointments, give e-prescription.
 Admin has the authority to modify/delete doctor, view reports, total billing amount, currently how many appointments are booked.
 
 
-Technologies used for implementation: PHP, CSS, HTML, BOOTSTRAP4
+Technologies used for implementation: PHP, CSS, HTML, BOOTSTRAP4 , JAVASCRIPT
